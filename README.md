@@ -14,12 +14,6 @@ I am a **dynamic bioinformatics scientist** with over a **decade of expertise** 
 - **High-Performance Computing (HPC) & Cloud Environments**  
 - **Workflow Automation (Snakemake, Nextflow, Docker, Git CI/CD)**  
 
----
-
-<!--
-**sathyasjali/sathyasjali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **developing high-throughput NGS workflows and genomic data analysis pipelines for trait discovery and CRISPR-based gene editing.**  
 - 🌱 I’m currently learning **advanced machine learning techniques for genomic data analysis and AI-driven bioinformatics applications.**  
