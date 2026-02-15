@@ -1,4 +1,6 @@
-## Welcome to my GitHub! 👋  
+### Welcome to my GitHub! 👋
+
+### Hi, I'm Sathya Jali
 
 Bioinformatics scientist with a background in molecular biology and genomics. I spend most of my time building NGS pipelines and analyzing genomic data for trait discovery.
 
@@ -6,7 +8,7 @@ Bioinformatics scientist with a background in molecular biology and genomics. I 
 - NGS workflows — assay design, target capture, multiplex panels, spatial transcriptomics
 - RNA-Seq, transcriptome analysis, and siRNA design
 - CRISPR-based gene editing analysis
-- Pipeline development with Nextflow, Snakemake, Docker
+- Pipeline development with Nextflow,Docker
 - HPC and cloud environments
 
 **What I'm learning:**
